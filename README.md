@@ -1,4 +1,4 @@
-# Proyecto App Buscador de recetas de Bebiadas
+# Proyecto App Buscador de recetas de Bebidas
 con React, Tailwind, typescript
 
 ## Descripción del proyecto
